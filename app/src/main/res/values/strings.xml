@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MultiScreenExample</string>
+    <string name="app_welcome_text">Welcome to Port Harcourt</string>
+    <string name="app_about_info">The purpose of this app is to give you a tour of different
+        places in port harcourt with the help of images. I hope you find it easy
+    </string>
+    <string name="btn_text_wl">Start your tour Journey</string>
+
+    <string name="address">Address</string>
+    <string name="place">Place</string>
+
+    <string name="address_answer">Rumola, After Airforce</string>
+
+    <string name="place_answer">Pleasure Park</string>
+    <string name="image_contentDes">Pleasure Park Image</string>
+    <string name="buttonNext">Next</string>
+
+</resources>
